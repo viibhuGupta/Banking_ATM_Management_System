@@ -9,7 +9,7 @@ public class Login  extends JFrame{
     
     Login(){
         
-        setTitle("AUTOMATED TELLER MACHINE");
+        setTitle("AUTOMATED TELLER MACHINE h");
         
         ImageIcon i1 = new ImageIcon(ClassLoader.getSystemResource("icons/logo.jpg"));
         Image i2 = i1.getImage().getScaledInstance(100,100 ,Image.SCALE_DEFAULT);
